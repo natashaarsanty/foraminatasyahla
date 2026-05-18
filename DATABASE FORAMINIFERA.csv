@@ -1,0 +1,16 @@
+﻿spesies;genus;famili;ordo;kelas;filum;kingdom;jumlah_kamar;ukuran;bentuk_cangkang;spiral;tekstur;ostia;oskula;spongocoel;body_wall;hidup;fosil;komposisi;tipe_pemfosilan;umur;lingkungan
+Globigerina_bulloides;Globigerina;Globigerinidae;Rotaliida;Globothalamea;Foraminifera;Protista;6;120;bulat;trochoid;halus;kecil;tidak_ada;tidak_ada;tipis;soliter;fosil;kalsit;rekristalisasi;Neogen;laut_dalam
+Globorotalia_menardii;Globorotalia;Globorotaliidae;Rotaliida;Globothalamea;Foraminifera;Protista;8;200;bulat;trochoid;halus;kecil;tidak_ada;tidak_ada;sedang;soliter;fosil;kalsit;rekristalisasi;Neogen;laut_dalam
+Orbulina_universa;Orbulina;Orbulinidae;Rotaliida;Globothalamea;Foraminifera;Protista;5;180;bulat;spherical;halus;kecil;tidak_ada;tidak_ada;tipis;soliter;fosil;kalsit;rekristalisasi;Neogen;laut_dalam
+Nummulites_sp;Nummulites;Nummulitidae;Rotaliida;Globothalamea;Foraminifera;Protista;10;300;oval;planispiral;kasar;besar;ada;besar;tebal;koloni;fosil;kalsit;permineralisasi;Paleogen;laut_dangkal
+Operculina_sp;Operculina;Nummulitidae;Rotaliida;Globothalamea;Foraminifera;Protista;11;320;oval;planispiral;halus;besar;ada;besar;tebal;koloni;fosil;kalsit;permineralisasi;Paleogen;laut_dangkal
+Fusulina_sp;Fusulina;Fusulinidae;Fusulinida;Globothalamea;Foraminifera;Protista;12;350;memanjang;planispiral;kasar;besar;ada;besar;tebal;koloni;fosil;kalsit;permineralisasi;Permian;laut_dangkal
+Textularia_sp;Textularia;Textulariidae;Textulariida;Globothalamea;Foraminifera;Protista;9;220;memanjang;serial;kasar;kecil;tidak_ada;tidak_ada;agregat;koloni;fosil;aglutinated;kompaksi;Kapur;laut_dalam
+Bolivina_sp;Bolivina;Bolivinidae;Rotaliida;Globothalamea;Foraminifera;Protista;7;140;memanjang;serial;halus;kecil;tidak_ada;tidak_ada;tipis;soliter;fosil;kalsit;kompaksi;Neogen;laut_dalam
+Ammonia_beccarii;Ammonia;Ammoniidae;Rotaliida;Globothalamea;Foraminifera;Protista;7;150;bulat;trochoid;halus;kecil;tidak_ada;tidak_ada;sedang;soliter;non_fosil;kalsit;tidak_terfosilkan;Resen;estuari
+Elphidium_sp;Elphidium;Elphidiidae;Rotaliida;Globothalamea;Foraminifera;Protista;8;180;oval;planispiral;halus;kecil;tidak_ada;kecil;tipis;soliter;fosil;kalsit;rekristalisasi;Kuarter;laut_dangkal
+Quinqueloculina_sp;Quinqueloculina;Miliolidae;Miliolida;Globothalamea;Foraminifera;Protista;5;100;oval;serial;halus;kecil;tidak_ada;tidak_ada;tipis;soliter;non_fosil;kalsit;tidak_terfosilkan;Resen;laut_dangkal
+Spiroloculina_sp;Spiroloculina;Miliolidae;Miliolida;Globothalamea;Foraminifera;Protista;6;110;memanjang;spiral;halus;kecil;tidak_ada;tidak_ada;tipis;soliter;non_fosil;kalsit;tidak_terfosilkan;Resen;laut_dangkal
+Lagena_sp;Lagena;Lagenidae;Lagenida;Globothalamea;Foraminifera;Protista;3;90;bulat;uniserial;halus;kecil;tidak_ada;tidak_ada;tipis;soliter;fosil;kalsit;kompaksi;Kapur;laut_dalam
+Guttulina_sp;Guttulina;Polymorphinidae;Rotaliida;Globothalamea;Foraminifera;Protista;4;130;oval;serial;halus;kecil;tidak_ada;tidak_ada;tipis;soliter;fosil;kalsit;kompaksi;Neogen;laut_dalam
+Planorbulina_sp;Planorbulina;Planorbulinidae;Rotaliida;Globothalamea;Foraminifera;Protista;7;160;bulat;planispiral;halus;kecil;tidak_ada;tidak_ada;tipis;koloni;fosil;kalsit;rekristalisasi;Neogen;laut_dangkal
