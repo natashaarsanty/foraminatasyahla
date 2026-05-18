@@ -21,7 +21,17 @@ image_urls = {
     "Globorotalia_menardii": "https://www.mikrotax.org/images/pf_cenozoic/Globorotaliidae/Globorotalia/menardii%20lineage/Globorotalia%20menardii/K_S%201983%2029-1.JPG",
     "Orbulina_universa": "https://www.mikrotax.org/images/pf_cenozoic/Globigerinidae/Orbulina/Orbulina%20universa/K_S%201983%2020-4.JPG",
     "Nummulites_sp": "https://www.mindat.org/imagecache/85/ed/00960130017362090929908.jpg",
-    "Operculina_sp": "https://images.marinespecies.org/thumbs/119138_operculina-complanata-defrance-in-de-blainville-1822.jpg"
+    "Operculina_sp": "https://images.marinespecies.org/thumbs/119138_operculina-complanata-defrance-in-de-blainville-1822.jpg",
+    "Fusulina_sp": "https://media.sketchfab.com/models/960ac3f9ee754d3a889ad9579c922ff7/thumbnails/7221b5ef600a4853be40eb458f2ebb1f/f793b4f964644c2ebd1a7a6f2ce8f4e1.jpeg",
+    "Textularia_sp": "https://www.mikrotax.org/images/pf_cat/T/Textularia/Textularia%20globulosa/USNM%20%20264610-156.jpg",
+    "Bolivina_sp": "https://www.mikrotax.org/images/pf_cat/B/Bolivina/Bolivina%20merecuanai/Sellier%20de%20Civrieux%201976%20pl09%20f05-8.JPG",
+    "Ammonia_beccarii": "https://foraminifera.eu/singimg/ammonia-beccarii-stirone.jpg",
+    "Elphidium_sp": "https://www.mikrotax.org/images/bf_main/Rotaliana/Rotalioidea/Elphidium/Elphidium%20crispum/Holbourn%20et%20al%202013%20f319.jpg",
+    "Quinqueloculina_sp": "https://www.mikrotax.org/images/bf_main/Miliolida/Quinqueloculina/Quinqueloculina%20sp./Cushman%201946%20pl.%2014%20fig.%2012.jpg",
+    "Spiroloculina_sp": "https://foraminifera.eu/singimg/sonx003.jpg",
+    "Lagena_sp": "https://www.mikrotax.org/images/bf_main/Nodosariana/Nodosariida/Lagenidae/Lagena/Lagena%20sp./Hermelin%201989%20pl.%204%20fig.%2018.jpg",
+    "Guttulina_sp": "https://www.mikrotax.org/images/bf_main/Nodosariana/Polymorphinida/Polymorphinidae/Guttulina/Guttulina%20trigonula/Bolli%20et%20al%201994%20pl33%20fig10-12.jpg",
+    "Planorbulina_sp": "https://images.marinespecies.org/thumbs/173349_planorbulinella-larvata.jpg"
 }
 
 df['image'] = df['spesies'].map(image_urls)
